@@ -7,12 +7,12 @@ Write something in python 3.4, just have a try.
 ## How to use: 
 ## 如何使用：
 put all the name of file you wanted in the "book.txt" one in a line,
- put all your files in folder "kindle/", then run cpfiles.py, 
-you will get the files in the folder "youneededbook/". 
-It is stupid, but it happens.
-
+		put all your files in folder "kindle/", then run cpfiles.py, 
+		you will get the files in the folder "youneededbook/". 
+		It is stupid, but it happens.
+		
 把你需要文件的全名包括后缀名放在book.txt这个文件里，
-每行一个，把你所有的文件放在kindle这个文件夹中，
+		每行一个，把你所有的文件放在kindle这个文件夹中，
 运行cpfiles.py，所有你需要的文件将出现在“youneededbook”这个文件夹中。
 这样很蠢不是吗，可是出现了这样的事情。
 	
